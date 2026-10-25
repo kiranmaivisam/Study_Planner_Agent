@@ -1,0 +1,7 @@
+langchain-google-genai
+langgraph
+langchain-core
+fastapi
+uvicorn
+streamlit
+requests
